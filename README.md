@@ -13,4 +13,4 @@ High-dimensional regression approaches, including Ridge and Lasso regression are
 
 3. Compared Ridge and Lasso regression, showcasing strengths and limitations.
 
-4. Impemented Lasso Regression for its ability to perform automatic feature selection, because it selects a sparse subset of influential genes, enhancing model interpretability in the high-dimensional setting.
+4. Implemented Lasso Regression for its ability to perform automatic feature selection, because it selects a sparse subset of influential genes, enhancing model interpretability in the high-dimensional setting.
